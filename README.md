@@ -1,5 +1,9 @@
-# frog
+# frog (made with Vue.js for test)
 
-Vue.js
+Clone or download. Then 
+```
+npm i
 
-For test
+npm run serve
+```
+
